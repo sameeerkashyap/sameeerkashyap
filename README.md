@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Sam!</h1>
+<h1 align="center">👋 Aloha, I'm Sam!</h1>
 
 <p align="center">
   <em>Currently Grad @ UC Santa Cruz | Tinkering With SOTA AI, Scientific Computing, AI Safety & Agentic Frameworks</em>
